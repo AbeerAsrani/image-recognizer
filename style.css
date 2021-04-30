@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    color:black;
+}
+.heading{
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+}
+p{
+    color: blue;
+}
